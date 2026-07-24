@@ -1,4 +1,7 @@
 # Crime-Sifter
+[![Subscribe to newsletter](https://img.shields.io/badge/📧_Join_Now,_Subscribe_Today-blue?)](https://albin-touma.kit.com)
+
+For a deep dive read  [Identifying Crime Related Data from Anonymous Social Media with AI](https://albintouma.com/posts/Exploring%20Crime%20Discussions%20on%20Swedish%20Forums%20Using%20LLMs)
 
 Sweden faces a growing crime epidemic, but public access to detailed crime data remains limited despite extensive media coverage, particularly of gang violence. Crime-Sifter seeks to address this gap by using alternative data sources to map crimes and their locations.
 
